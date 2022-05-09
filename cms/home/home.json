@@ -1,57 +1,41 @@
 {
-  "username": "Kevin Marques",
+  "username": "chanoyu.fr",
   "handle": "kevin-marques",
-  "bio": "Yo everyone ❤️ I'm a pianist, web developer, article writer around computer   development, and many other passions! 🔱 I hope to see you on the net!",
+  "bio": " ",
   "image": {
-    "src": "../assets/te_le_chargement.jpeg",
-    "alt": "kevin-marques"
+    "src": "../assets/logo-chanoyu.jpeg",
+    "alt": "chanoyu"
   },
   "networks": [
     {
       "network": "instagram",
-      "url": "https://www.instagram.com/km_marques/"
-    },
-    {
-      "network": "twitter",
-      "url": "https://twitter.com/KM_Marques"
-    },
-    {
-      "network": "facebook",
-      "url": "https://www.facebook.com/kevin.marques.humain"
-    },
-    {
-      "network": "tiktok",
-      "url": "https://www.tiktok.com/@le_kem_"
-    },
-    {
-      "network": "medium",
-      "url": "https://medium.com/@MarquesKevin"
+      "url": "https://www.instagram.com/chanoyu_fr/"
     }
   ],
   "sections": [
     {
-      "title": "My companies & Projects",
-      "description": "I try to create web applications with the goal to become the top on       the market.",
+      "title": "Nos projets autour du thé",
+      "description": " ",
       "blocks": [
         {
           "type": "block/link",
-          "title": "Sudoku Academy",
-          "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
+          "title": "chanoyu.fr",
+          "description": "Chanoyu est un espace dédié à la passion du thé. Spécialisé dans le thé japonais et le thé matcha, Chanoyu entend informer sur ce produit représentant la quintessence de la culture japonaise.",
           "favicon": {
-            "src": "../assets/icon-96x96.png",
-            "alt": "default alt"
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
           },
-          "url": "https://www.sudoku.academy/"
+          "url": "https://chanoyu.fr/"
         },
         {
           "type": "block/link",
-          "title": "Temple du Haïku",
-          "description": "Le Temple du Haïku est un site communautaire pour passionnés de haïkus, lire et publier des haïkus, visionner des exemple de haïkus d'auteurs comme Matsuo Basho.",
+          "title": "Ebook de recettes \"Thé en cuisine - 10 recettes véganes au thé\"",
+          "description": "Avec cet ebook, découvrez la cuisine au thé ! Amateur de thé, vous souhaitez apprendre à l'utiliser dans vos plats ? Envie de réaliser des repas originaux et sains avec des recettes véganes ? L'ebook Thé en cuisine est fait pour vous ! Dans ce livre de recettes, vous trouverez : 10 recettes 100% véganes, réalisées à partir de 4 variétés de thés japonais, dont : 6 recettes salées, 4 recettes sucrées. Un guide d'achat pour acheter les thés utilisés dans cet ebook. Des recettes faciles, variées, gourmandes et originales qui vous apporteront tous les bienfaits du thé au quotidien !",
           "favicon": {
-            "src": "../assets/192x192.png",
-            "alt": "temple"
+            "src": "../assets/512px-antu_accessories-ebook-reader.svg.png",
+            "alt": "ebook-the-vegan"
           },
-          "url": "https://www.temple-du-haiku.fr/"
+          "url": "http://melinadarocha.gumroad.com/l/the_en_cuisine_vegan"
         }
       ]
     }
