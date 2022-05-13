@@ -1,7 +1,7 @@
 {
   "username": "chanoyu.fr",
   "handle": "kevin-marques",
-  "bio": " ",
+  "bio": " Chanoyu.fr est un site d'information dédié au thé : matcha, thés japonais, et cérémonie du thé japonaise 🍵",
   "image": {
     "src": "../assets/logo-chanoyu.jpeg",
     "alt": "chanoyu"
@@ -13,6 +13,32 @@
     }
   ],
   "sections": [
+    {
+      "title": "Articles à la une",
+      "description": "Nos articles les plus récents sur chanoyu.fr",
+      "blocks": [
+        {
+          "type": "block/link",
+          "title": "Le gyokuro, le thé vert premium du Japon",
+          "description": "Le thé gyokuro est l'un des tous meilleurs thés verts au monde. Ce thé au goût et aux bienfaits exceptionnels lui valent le surnom de \"rosée précieuse\".",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/thes-japonais/gyokuro-the-vert-premium-japon/"
+        },
+        {
+          "type": "block/link",
+          "title": "Au musée du thé Fujinokuni de Shizuoka",
+          "description": "La préfecture de Shizuoka est connue pour ses paysages iconiques. Mais saviez-vous qu'elle abrite un musée du thé ?",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/thes-japonais/musee-du-the-fujinokuni-shizuoka/"
+        }
+      ]
+    },
     {
       "title": "Nos projets autour du thé",
       "description": " ",
