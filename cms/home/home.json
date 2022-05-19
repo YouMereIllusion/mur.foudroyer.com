@@ -19,6 +19,16 @@
       "blocks": [
         {
           "type": "block/link",
+          "title": "Matcha, caféine et théine... Quand boire du thé matcha ?",
+          "description": "Le matcha empêche-t-il de dormir ? Quel est le meilleur moment pour boire du thé matcha ?",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/the-matcha/quand-boire-matcha-cafeine-theine/"
+        },
+        {
+          "type": "block/link",
           "title": "Le gyokuro, le thé vert premium du Japon",
           "description": "Le thé gyokuro est l'un des tous meilleurs thés verts au monde. Ce thé au goût et aux bienfaits exceptionnels lui valent le surnom de \"rosée précieuse\".",
           "favicon": {
