@@ -35,6 +35,16 @@
       "blocks": [
         {
           "type": "block/link",
+          "title": "Hojicha Latte - Recette",
+          "description": "Boisson gourmande peu caféinée, le hojicha latte est la boisson idéale pour un tea time tout en douceur.",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/recettes/hojicha-latte/"
+        },
+        {
+          "type": "block/link",
           "title": "Matcha, caféine et théine... Quand boire du thé matcha ?",
           "description": "Le matcha empêche-t-il de dormir ? Quel est le meilleur moment pour boire du thé matcha ?",
           "favicon": {
@@ -52,16 +62,6 @@
             "alt": "chanoyu.fr"
           },
           "url": "https://chanoyu.fr/articles/thes-japonais/gyokuro-the-vert-premium-japon/"
-        },
-        {
-          "type": "block/link",
-          "title": "Au musée du thé Fujinokuni de Shizuoka",
-          "description": "La préfecture de Shizuoka est connue pour ses paysages iconiques. Mais saviez-vous qu'elle abrite un musée du thé ?",
-          "favicon": {
-            "src": "../assets/logo-chanoyu.jpeg",
-            "alt": "chanoyu.fr"
-          },
-          "url": "https://chanoyu.fr/articles/thes-japonais/musee-du-the-fujinokuni-shizuoka/"
         }
       ]
     },
