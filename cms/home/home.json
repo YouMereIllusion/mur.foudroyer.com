@@ -14,6 +14,22 @@
   ],
   "sections": [
     {
+      "title": "Nos partenariats",
+      "description": "Nous nous associons avec des marques de thé pour vous offrir des expériences exclusives 🍵",
+      "blocks": [
+        {
+          "type": "block/link",
+          "title": "Kumiko Matcha",
+          "description": "Obtenez -10% sur tout le site avec le code CHANOYU. Vous cherchez du thé matcha bio premium ? Val de Kumiko Matcha vous propose du thé matcha de qualité cultivé et produit de manière traditionnelle au Japon.",
+          "favicon": {
+            "src": "../assets/kumiko_logo_positive.png",
+            "alt": "kumikomatcha.fr"
+          },
+          "url": "https://kumikomatcha.fr/?rfsn=6608480.907702&utm_source=refersion&utm_medium=affiliate&utm_campaign=6608480.907702"
+        }
+      ]
+    },
+    {
       "title": "Articles à la une",
       "description": "Nos articles les plus récents sur chanoyu.fr",
       "blocks": [
