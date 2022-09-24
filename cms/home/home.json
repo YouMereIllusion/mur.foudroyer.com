@@ -35,6 +35,16 @@
       "blocks": [
         {
           "type": "block/link",
+          "title": "Kit matcha, comment bien choisir les ustensiles pour préparer du matcha ?",
+          "description": "Vous souhaitez préparer du matcha chez vous, mais comment choisir les bons ustensiles ? Découvrez nos conseils pour choisir un set à matcha, indispensable pour obtenir un résultat parfait !",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/the-matcha/kit-matcha/"
+        },
+        {
+          "type": "block/link",
           "title": "Le wagashi, l'art poétique de la pâtisserie japonaise",
           "description": "Lors de la cérémonie du thé japonaise Cha no yu, on accompagne le thé matcha d'une confiserie typiquement japonaise, le wagashi.",
           "favicon": {
@@ -52,16 +62,6 @@
             "alt": "chanoyu.fr"
           },
           "url": "https://chanoyu.fr/articles/recettes/hojicha-latte/"
-        },
-        {
-          "type": "block/link",
-          "title": "Matcha, caféine et théine... Quand boire du thé matcha ?",
-          "description": "Le matcha empêche-t-il de dormir ? Quel est le meilleur moment pour boire du thé matcha ?",
-          "favicon": {
-            "src": "../assets/logo-chanoyu.jpeg",
-            "alt": "chanoyu.fr"
-          },
-          "url": "https://chanoyu.fr/articles/the-matcha/quand-boire-matcha-cafeine-theine/"
         }
       ]
     },
