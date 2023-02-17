@@ -33,7 +33,7 @@
           "description": "Obtenez -10% sur l'ensemble du site avec le code WELCOMEIKKYU. Une sélection de thé vert et de matcha japonais exceptionnels et de première qualité, provenant directement des producteurs et expédiés de Fukuoka, au Japon.",
           "favicon": {
             "src": "../assets/ikkyu-logo.png",
-            "alt": "ikkyu-tea.com"
+            "alt": "shop.ikkyu-tea.com"
           },
           "url": "https://shop.ikkyu-tea.com/r?id=k9rn9h"
         }
