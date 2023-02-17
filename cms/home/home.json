@@ -26,6 +26,16 @@
             "alt": "kumikomatcha.fr"
           },
           "url": "https://kumikomatcha.fr/?rfsn=6608480.907702&utm_source=refersion&utm_medium=affiliate&utm_campaign=6608480.907702"
+        },
+        {
+          "type": "block/link",
+          "title": "Ikkyu",
+          "description": "Obtenez -10% sur l'ensemble du site avec le code WELCOMEIKKYU. ",
+          "favicon": {
+            "src": "../assets/ikkyu-logo.png",
+            "alt": "ikkyu-tea.com"
+          },
+          "url": "https://shop.ikkyu-tea.com/r?id=82qoq6"
         }
       ]
     },
