@@ -31,8 +31,18 @@
     },
     {
       "title": "Articles à la une",
-      "description": "Nos articles les plus récents sur chanoyu.fr",
+      "description": "Nos meilleurs articles sur chanoyu.fr",
       "blocks": [
+        {
+          "type": "block/link",
+          "title": "Matcha Slim vs matcha, notre avis (2023)",
+          "description": "Quelle est la différence entre le Matcha Slim et du thé matcha ? Quel est le meilleur produit pour perdre du poids ?",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/the-matcha/matcha-slim/"
+        },
         {
           "type": "block/link",
           "title": "Kit matcha, comment bien choisir les ustensiles pour préparer du matcha ?",
@@ -45,23 +55,13 @@
         },
         {
           "type": "block/link",
-          "title": "Le wagashi, l'art poétique de la pâtisserie japonaise",
-          "description": "Lors de la cérémonie du thé japonaise Cha no yu, on accompagne le thé matcha d'une confiserie typiquement japonaise, le wagashi.",
+          "title": "Où acheter du thé matcha ? (2023)",
+          "description": "Intégrer le matcha à votre quotidien pour profiter de ses bienfaits, oui, mais où s'en procurer ? Avec ce guide, nous vous proposons une sélection de bonnes adresses pour trouver le thé matcha adapté à vos besoins.",
           "favicon": {
             "src": "../assets/logo-chanoyu.jpeg",
             "alt": "chanoyu.fr"
           },
-          "url": "https://chanoyu.fr/articles/ceremonie-du-the/wagashi-confiserie-japonaise-poesie/"
-        },
-        {
-          "type": "block/link",
-          "title": "Hojicha Latte - Recette",
-          "description": "Boisson gourmande peu caféinée, le hojicha latte est la boisson idéale pour un tea time tout en douceur.",
-          "favicon": {
-            "src": "../assets/logo-chanoyu.jpeg",
-            "alt": "chanoyu.fr"
-          },
-          "url": "https://chanoyu.fr/articles/recettes/hojicha-latte/"
+          "url": "https://chanoyu.fr/articles/the-matcha/ou-acheter-du-the-matcha/"
         }
       ]
     },
