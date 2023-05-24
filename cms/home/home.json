@@ -36,6 +36,16 @@
             "alt": "shop.ikkyu-tea.com"
           },
           "url": "https://shop.ikkyu-tea.com/"
+        },
+        {
+          "type": "block/link",
+          "title": "Maison Aimi",
+          "description": "Obtenez -10% sur l'ensemble du site avec le code CHANOYU10. Mugicha français et bio ou thé d'orge, boisson sans caféine et sans théine inspirée par le Japon, faite en France avec de l'orge issu de l'agriculture biologique française. ",
+          "favicon": {
+            "src": "../assets/logoe_ai_blue_version.webp",
+            "alt": "https://maison-aimi.fr/"
+          },
+          "url": "https://maison-aimi.fr/collections/all?utm_source=Chanoyu+website&utm_medium=article&utm_campaign=chanoyu-article-mugicha&utm_id=chanoyu"
         }
       ]
     },
