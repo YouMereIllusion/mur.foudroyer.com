@@ -86,6 +86,22 @@
       ]
     },
     {
+      "title": "Dégustations de thé",
+      "description": " ",
+      "blocks": [
+        {
+          "type": "block/link",
+          "title": "Thé sencha Yana",
+          "description": "Aujourd'hui, nous partons à la découverte du thé sencha Yana, un sencha premium de Yame extrêmement doux et riche en umami produit par Koga-san.",
+          "favicon": {
+            "src": "../assets/logo-chanoyu.jpeg",
+            "alt": "chanoyu.fr"
+          },
+          "url": "https://chanoyu.fr/articles/degustations-the/yana-sencha-ikkyu/"
+        }
+      ]
+    },
+    {
       "title": "Nos projets autour du thé",
       "description": " ",
       "blocks": [
